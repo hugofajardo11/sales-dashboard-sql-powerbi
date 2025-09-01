@@ -38,7 +38,7 @@ File:  [db_dump.sql](./db_dump.sql)
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard](./screenshot.png)
+![Sales Dashboard](./sales_dashboard.png)
 
 ---
 
