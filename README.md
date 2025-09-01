@@ -15,7 +15,7 @@ The goal of this project was to design a dashboard that answers key business que
 ---
 
 ## 🗂 Dataset
-File: [db_dump.sql]("C:\Users\fajar\Downloads\db_dump.sql")  
+File:  [db_dump.sql](./db_dump.sql)  
 - Contains sales transaction data with tables for:
   -customers
   -date
@@ -38,7 +38,7 @@ File: [db_dump.sql]("C:\Users\fajar\Downloads\db_dump.sql")
 
 ## 📊 Dashboard Preview
 
-![Sales Dashboard Screenshot]("C:\Users\fajar\OneDrive\Pictures\Screenshots\sales_dashboard.png")
+![Sales Dashboard](./screenshot.png)
 
 ---
 
